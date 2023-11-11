@@ -1,2 +1,2 @@
 # ecommerce_powerbi
-A project on e-commerce creative Dashboard On powerBi
+A project on an e-commerce creative Dashboard On power bi
